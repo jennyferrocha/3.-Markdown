@@ -1,4 +1,4 @@
-# :wink: Markdown
+# :smille: Markdown
 
 Tudo o que você precisa saber sobre essa linguagem de marcação!
 
