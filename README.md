@@ -67,3 +67,4 @@ Para instalar essa lib rode `yarn install`
 <!-- IMAGEM -->
 ![imagem qualquer](https://daringfireball.net/graphics/logos/)   
 
+💫 tudo ok.
